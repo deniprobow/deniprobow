@@ -1,5 +1,5 @@
 # Deni Saputra
-**Senior Fullstack Developer**  
+**Senior Fullstack Developer | Senior Software Engineer | Tech Lead**  
 Pontianak, Kalimantan Barat, Indonesia  
 [deniprobow@gmail.com](mailto:deniprobow@gmail.com)  
 [LinkedIn](https://linkedin.com/in/deni-saputra-2b1567114) | [GitHub](https://github.com/Deniprobow) | [Portfolio](https://deniprobow.com)  
