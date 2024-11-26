@@ -14,7 +14,7 @@ I am a dedicated Full Stack Engineer with 8 years of experience in web and mobil
 
 ## Technical Skills
 
-- **Programming Languages**: JavaScript, Python, PHP, Java
+- **Programming Languages**: JavaScript, Python, PHP, Java, Rust (Beginner)
 - **Frameworks & Libraries**: React (Next.js, RTK, React-Native),  Vue.js (Nuxt), Node.js (Nest, Express, Adonis), Laravel, CI, FastApi, Flask,Flutter
 - **Data Science & ML Tools**: Python (Django, FastAPI)
 - **DevOps & Tools**: Git, GitHub, GitLab, Docker, CI/CD (GitLab CI/CD, Github Action)
